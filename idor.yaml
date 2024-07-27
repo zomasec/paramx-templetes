@@ -1,0 +1,18 @@
+tag: IDOR
+
+part: query
+
+list:
+  - account
+  - doc
+  - edit
+  - email
+  - group
+  - id
+  - key
+  - no
+  - number
+  - order
+  - profile
+  - report
+  - user

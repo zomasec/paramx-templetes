@@ -1,0 +1,20 @@
+tag: isubs # intersting subdomains
+
+part: subdomain
+
+list:
+  - admin
+  - jenkins
+  - test
+  - proxy
+  - stage
+  - stg 
+  - api 
+  - corp
+  - test
+  - dev
+  - devops
+  - staff
+  - db
+  - qa
+  - internal

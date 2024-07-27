@@ -1,0 +1,67 @@
+tag: SSRF
+
+part: query
+
+list:
+  - access
+  - adm
+  - admin
+  - alter
+  - callback
+  - cfg
+  - clone
+  - continue
+  - create
+  - data
+  - dbg
+  - debug
+  - delete
+  - dest
+  - dir
+  - disable
+  - doc
+  - document
+  - domain
+  - edit
+  - enable
+  - exec
+  - execute
+  - feed
+  - file
+  - filename
+  - folder
+  - grant
+  - host
+  - html
+  - img
+  - load
+  - make
+  - modify
+  - navigation
+  - next
+  - open
+  - out
+  - page
+  - path
+  - pg
+  - php_path
+  - port
+  - redirect
+  - reference
+  - rename
+  - reset
+  - return
+  - root
+  - shell
+  - show
+  - site
+  - style
+  - test
+  - to
+  - toggle
+  - uri
+  - url
+  - val
+  - validate
+  - view
+  - window

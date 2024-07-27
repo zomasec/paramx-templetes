@@ -1,0 +1,12 @@
+tag: SSTI
+part: query
+
+list:
+ - activity
+  - content
+  - id
+  - name
+  - preview
+  - redirect
+  - template
+  - view

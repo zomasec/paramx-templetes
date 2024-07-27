@@ -1,0 +1,35 @@
+tag: RCE
+part: query
+
+list:
+  - arg
+  - cli
+  - cmd
+  - code
+  - command
+  - daemon
+  - dir
+  - do
+  - download
+  - exe
+  - exec
+  - execute
+  - feature
+  - func
+  - ip
+  - jump
+  - load
+  - log
+  - module
+  - option
+  - payload
+  - ping
+  - print
+  - process
+  - query
+  - read
+  - reg
+  - req
+  - run
+  - step
+  - upload
